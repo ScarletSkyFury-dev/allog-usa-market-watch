@@ -35,7 +35,9 @@ If there is no meaningful current development in a section, shorten or omit it r
 - [`docs/METRICS_AND_METHODS.md`](docs/METRICS_AND_METHODS.md) — diesel, LMI, flatbed, port/rail, and compliance methodology.
 - [`docs/IMAGE_STANDARD.md`](docs/IMAGE_STANDARD.md) — locked Allog weekly visual format.
 - [`docs/WEEKLY_WORKFLOW.md`](docs/WEEKLY_WORKFLOW.md) — recurring research-to-publication workflow.
-- [`watchlists/COMPLIANCE_WATCH.md`](watchlists/COMPLIANCE_WATCH.md) — topics to monitor for fresh developments.
+- [`sources/CORE_SOURCES.md`](sources/CORE_SOURCES.md) — starting-point registry of primary and secondary research sources.
+- [`watchlists/MARKET_WATCH.md`](watchlists/MARKET_WATCH.md) — recurring diesel/capacity/warehouse/port/rail signals.
+- [`watchlists/COMPLIANCE_WATCH.md`](watchlists/COMPLIANCE_WATCH.md) — compliance and fraud topics to monitor for fresh developments.
 - [`templates/WEEKLY_EMAIL_TEMPLATE.md`](templates/WEEKLY_EMAIL_TEMPLATE.md) — standard report skeleton.
 - [`templates/IMAGE_COPY_TEMPLATE.md`](templates/IMAGE_COPY_TEMPLATE.md) — required map fields and five image highlights.
 - [`decisions/DECISION_LOG.md`](decisions/DECISION_LOG.md) — durable editorial and visual decisions.
