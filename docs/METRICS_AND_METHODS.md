@@ -82,6 +82,22 @@ Important: **Transportation Capacity is not a drayage-specific index.** Never de
 
 Because LMI is monthly, carry forward the latest official reading until the next release. Do not imply a weekly change.
 
+### Client-facing presentation rule
+
+When Transportation Capacity and Transportation Prices are shown in the email, present them as separate bullets for fast visual interpretation, similar to the warehousing indicators.
+
+Preferred format:
+- **Transportation Capacity: [latest]** — [prior month] last month; [contraction/expansion] and [tightening/easing] direction.
+- **Transportation Prices: [latest]** — [prior month] last month; [contraction/expansion] and [accelerating/slowing] direction.
+
+When useful, add the same-month prior-year figure after the monthly comparison.
+
+Do not merely state the latest number. Give the reader a benchmark and direction.
+
+For the current July 2026 reference:
+- Transportation Capacity: **28.4**, down from **30.8 in June** — deeper contraction.
+- Transportation Prices: **86.9**, down from **92.4 in June** — still very strong expansion, but at a slower rate.
+
 When useful, compare:
 - latest month vs prior month
 - latest month vs same month last year
