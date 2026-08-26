@@ -36,6 +36,22 @@ They return only when there is a fresh development, deadline, measurable effect,
 
 ---
 
+## Week-over-week compliance de-duplication
+
+Decision: before drafting the compliance section, compare the proposed content against the prior approved edition.
+
+If a rule, proposal, statistic, or explanation was already reported last week, do not repeat it at full length unless something materially changed.
+
+Preferred treatment:
+- lead with the genuinely new event or deadline;
+- use one short background sentence only when needed for context;
+- omit unchanged historical statistics and explanations;
+- explicitly distinguish “still active this week” from “new this week.”
+
+This is especially important for ELP, ELD, non-domiciled CDL, carrier shutdowns, and FMCSA rulemaking.
+
+---
+
 ## Container Drayage section
 
 Decision: do not maintain a standalone Container Drayage section when it only repeats port/terminal/rail issues.
@@ -64,6 +80,20 @@ Method:
 - pair with Transportation Prices and current regional conditions
 
 Never call it a drayage-specific index.
+
+---
+
+## LMI client-facing display
+
+Decision: show **Transportation Capacity** and **Transportation Prices** as separate bullets, matching the visual style used for warehousing indicators.
+
+Each bullet should include:
+- latest value;
+- prior-month value when available;
+- whether the metric is in expansion or contraction;
+- whether the direction tightened/eased or accelerated/slowed.
+
+Do not leave the reader with an unexplained standalone index value.
 
 ---
 
