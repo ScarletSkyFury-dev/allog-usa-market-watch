@@ -38,6 +38,27 @@ Use alongside diesel and current port/terminal conditions. Never describe as dra
 
 ---
 
+## Small-carrier capacity structure / consolidation
+
+Track fresh evidence that usable trucking capacity is shifting away from very small independent carriers toward larger carrier networks or authorities.
+
+Current candidate for next edition (Aug. 27, 2026): FreightWaves interviews with transportation attorneys Brian Nelson and Greg Feary describe post-Montgomery carrier-selection and insurance pressure as particularly difficult for one-truck and small-fleet operators. The article cites SONAR data showing U.S. carriers with 1–6 power units declining from a 2023 peak near 222,000 to roughly 197,000 by mid-2026, while carriers with 15+ trucks ticked up slightly.
+
+Watch for:
+- continued decline in 1–6 truck authorities
+- growth in larger-carrier counts or leased-on owner-operator models
+- documented broker vetting-policy tightening
+- reduced willingness to use conditional or unrated carriers
+- insurance-cost or minimum-limit changes affecting small fleets
+- evidence that independent small carriers are leasing onto larger authorities
+
+Client framing: do not declare that small carriers are disappearing or that Montgomery caused the entire decline. Present this as a structural market signal: capacity may still exist, but a larger share may become accessible through bigger approved carrier networks rather than independent spot authorities. Potential effects include less spot flexibility, more selective carrier approval, and continued importance of carrier vetting.
+
+Source to revisit before publication:
+- FreightWaves, Aug. 27, 2026 — “This May Not Be the Right Time to Jump Into the Small Carrier Market.” Two Top Transportation Attorneys on Whether the Small Carrier Has a Future.
+
+---
+
 ## Warehousing / transload
 
 Permanent monthly metrics:
