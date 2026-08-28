@@ -111,13 +111,27 @@ Legitimate transfers can occur as part of a genuine company/operation sale with 
 
 ---
 
-## 7. Broker liability / negligent hiring
+## 7. Broker liability / negligent hiring / small-carrier market effect
 
 ### Why it matters
-Can change carrier-vetting, insurance, and broker/provider behavior.
+Montgomery can change carrier-vetting, insurance, broker/provider behavior, and potentially the structure of usable trucking capacity.
 
 ### Rule
-Do not repeat the Supreme Court background weekly. Include only when there is a fresh legal consequence, insurer response, vetting change, market practice, or new litigation development.
+Do not repeat the Supreme Court background weekly. Include only when there is a fresh legal consequence, insurer response, vetting change, market practice, new litigation development, or measurable capacity effect.
+
+### Fresh Aug. 27, 2026 signal to evaluate for next edition
+FreightWaves interviews with transportation attorneys Brian Nelson and Greg Feary report that broker carrier-selection policies are becoming more formalized and that small, unrated, or conditional carriers may face greater difficulty remaining approved across broker networks. The article also cites SONAR data showing carriers with 1–6 power units declining from a 2023 peak near 222,000 to roughly 197,000 by mid-2026, while carriers with 15+ trucks increased slightly.
+
+Attorney commentary also suggests some small carriers may increasingly lease onto or operate under larger carrier authorities as insurance, vetting, and legal pressures rise.
+
+### Editorial framing for clients
+- Treat the attorney comments as industry analysis, not an official regulatory finding.
+- Do not claim Montgomery alone caused the decline in small carriers.
+- The useful market angle is that independent small-carrier capacity may become harder to access directly as vetting standards tighten, even if the trucks/drivers remain in the market under larger carrier networks.
+- Potential client impact: less independent spot flexibility, more selective carrier approval, and greater concentration of usable capacity among larger approved networks.
+
+Source to revisit before publication:
+- FreightWaves, Aug. 27, 2026 — “This May Not Be the Right Time to Jump Into the Small Carrier Market.” Two Top Transportation Attorneys on Whether the Small Carrier Has a Future.
 
 ---
 
