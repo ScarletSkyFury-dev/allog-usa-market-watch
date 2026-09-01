@@ -50,6 +50,25 @@ Removal of noncompliant training providers and licensing scrutiny can reduce the
 - driver-license revocations
 - new federal investments or enforcement programs
 
+### Fresh Aug. 31, 2026 enforcement action — include in next release
+FMCSA/USDOT announced a new interagency trucking-fraud crackdown with DHS/DOJ and state/local partners.
+
+Primary-source facts to use:
+- emergency removal of **more than 110 ELDT/CDL training providers** associated with more than 5,000 drivers who failed English Language Proficiency tests;
+- **more than 160 additional providers** received notices of proposed removal after nearly 400 investigations across 40 states;
+- FMCSA said 175 investigators found serious deficiencies including inadequate training space, unlicensed instructors, missing records, and other noncompliance;
+- a nationwide audit of third-party CDL skills testers and state oversight is being launched;
+- FMCSA reports more than 28,000 drivers have been placed out of service for ELP violations since June 2025;
+- DHS/HSI announced a synchronized Aug. 31 surge targeting more than 200 driving schools across 23 states as part of broader CDL/trucking fraud investigations.
+
+Secondary reporting may summarize this as roughly **270 schools shut down / targeted for removal**, but the client report should preserve the official distinction: 110+ emergency removals versus 160+ proposed removals.
+
+### Client-facing angle
+This is a fresh enforcement escalation, not just another background statistic. The useful market implication is that tighter training-school and testing oversight may reduce the inflow of drivers whose credentials do not meet federal standards and can remove existing drivers/carriers from the usable capacity pool. Frame as **compliance affecting driver pipeline and effective capacity**, not as a political or immigration story.
+
+Primary source:
+- FMCSA, Aug. 31, 2026 — interagency trucking-fraud enforcement announcement.
+
 ---
 
 ## 4. Non-domiciled CDL
