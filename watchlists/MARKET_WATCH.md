@@ -38,6 +38,29 @@ Use alongside diesel and current port/terminal conditions. Never describe as dra
 
 ---
 
+## Experimental ISM Manufacturing / Supplier-Delivery Pulse — test run only
+
+**Status:** trial for the next weekly edition only. Do not make this a permanent recurring section unless the user approves after seeing it in context.
+
+Purpose: add a light demand/supply-chain-side signal that complements LMI without making the report too dense.
+
+Preferred minimal fields for the test:
+- **ISM Supplier Deliveries Index** — explain that above 50 indicates slower supplier deliveries; current candidate reading 59.3 and ninth straight month of slower deliveries.
+- **ISM Prices Index** — current candidate reading 71.1, indicating continued expansion in manufacturing input prices.
+
+Optional only if it adds clear value:
+- New Orders or Production direction, but do not add extra metrics just to fill space.
+
+Client framing:
+- do not say Supplier Deliveries directly measures trucking capacity;
+- interpret as a manufacturing/supply-chain pressure signal that may support freight demand or longer replenishment lead times;
+- keep the wording short and visual, ideally two bullets plus one takeaway sentence;
+- if it feels redundant beside LMI, diesel, and flatbed, omit it. Less information is preferable to a crowded report.
+
+Decision after test: user will decide whether to retain, modify, reduce frequency, or remove this indicator after seeing the next edition.
+
+---
+
 ## Small-carrier capacity structure / consolidation
 
 Track fresh evidence that usable trucking capacity is shifting away from very small independent carriers toward larger carrier networks or authorities.
