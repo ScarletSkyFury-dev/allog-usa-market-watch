@@ -50,24 +50,34 @@ Removal of noncompliant training providers and licensing scrutiny can reduce the
 - driver-license revocations
 - new federal investments or enforcement programs
 
-### Fresh Aug. 31, 2026 enforcement action — include in next release
+### Aug. 31, 2026 enforcement action — already used in Week 36
 FMCSA/USDOT announced a new interagency trucking-fraud crackdown with DHS/DOJ and state/local partners.
 
-Primary-source facts to use:
+Primary-source facts already used:
 - emergency removal of **more than 110 ELDT/CDL training providers** associated with more than 5,000 drivers who failed English Language Proficiency tests;
 - **more than 160 additional providers** received notices of proposed removal after nearly 400 investigations across 40 states;
 - FMCSA said 175 investigators found serious deficiencies including inadequate training space, unlicensed instructors, missing records, and other noncompliance;
 - a nationwide audit of third-party CDL skills testers and state oversight is being launched;
-- FMCSA reports more than 28,000 drivers have been placed out of service for ELP violations since June 2025;
-- DHS/HSI announced a synchronized Aug. 31 surge targeting more than 200 driving schools across 23 states as part of broader CDL/trucking fraud investigations.
+- FMCSA reports more than 28,000 drivers have been placed out of service for ELP violations since June 2025.
 
 Secondary reporting may summarize this as roughly **270 schools shut down / targeted for removal**, but the client report should preserve the official distinction: 110+ emergency removals versus 160+ proposed removals.
 
-### Client-facing angle
-This is a fresh enforcement escalation, not just another background statistic. The useful market implication is that tighter training-school and testing oversight may reduce the inflow of drivers whose credentials do not meet federal standards and can remove existing drivers/carriers from the usable capacity pool. Frame as **compliance affecting driver pipeline and effective capacity**, not as a political or immigration story.
+### Additional interagency scope not emphasized in Week 36 — monitor for fresh follow-up
+The same Aug. 31 announcement also included:
+- DHS/HSI synchronized enforcement activity targeting **more than 200 driving schools across 23 states**;
+- HSI dissemination of **more than 1,000 CDL-related business leads** tied to suspected unsafe practices or transportation-sector exploitation;
+- **80+ Notices of Inspection** already issued and multiple investigations opened;
+- formation of DOJ's **Joint Task Force Crossroads of America**, combining U.S. Attorney offices in Illinois, Indiana, Michigan, and Ohio with DOT/FMCSA, FBI, DEA, HSI, ICE, ATF, and state/local partners;
+- investigations may involve fraudulent CDL issuance, unauthorized employment, identity fraud, shell companies, labor exploitation, and other transportation-sector criminal activity.
 
-Primary source:
-- FMCSA, Aug. 31, 2026 — interagency trucking-fraud enforcement announcement.
+### Rule for next edition
+Do **not** simply repeat the Aug. 31 crackdown next week because it is the same underlying event. Revisit these additional facts only if there are **new results** — e.g. schools actually shut after the sweep, new indictments/arrests, new state actions, new driver/license revocations, material findings from the third-party tester audit, or measurable carrier/capacity consequences.
+
+If fresh results appear, the preferred angle is: the crackdown is expanding from FMCSA registry enforcement into coordinated federal criminal/fraud enforcement, which may further tighten the qualified-driver/carrier pool and increase vetting importance.
+
+Primary sources to revisit:
+- FMCSA/USDOT Aug. 31, 2026 interagency trucking-fraud enforcement announcement.
+- DOJ Aug. 31, 2026 Joint Task Force Crossroads of America announcement.
 
 ---
 
