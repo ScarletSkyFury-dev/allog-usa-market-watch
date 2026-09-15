@@ -46,6 +46,17 @@ Default highlight families:
 
 The exact topic may change if another current development is materially more important, but the right column remains five items.
 
+## Logo / department-name fidelity — non-negotiable
+
+The Allog logo is a protected brand asset and must be treated as a **fixed reference**, not as a generative interpretation.
+
+- The department name is exactly **`US Domestics`**.
+- Never substitute `USA Domestics`, `USDomestic`, `US Domestics USA`, or any other wording.
+- Never redraw, restyle, stretch, compress, warp, outline, recolor, add gradients to, or otherwise reinterpret the Allog wordmark or initial glyph.
+- Preserve the exact proportions, spacing, geometry, slant, and color treatment shown in the approved brand guide/reference image.
+- If image generation cannot reproduce the logo exactly, the logo area should be preserved from the approved reference rather than regenerated.
+- The logo block should retain sufficient breathing room and must not be crowded by adjacent imagery.
+
 ## Color and typography rules
 
 - Navy / white / bright blue primary palette.
@@ -94,17 +105,23 @@ The objective is weekly continuity and instant recognizability.
 
 ## Photo-strip quality rule
 
-The logistics photo strip must look **photorealistic**.
+The logistics photo strip must look **photorealistic and editorial-grade**.
+
+The approved Week 37 strip is the quality baseline: distinct truck, container ship, aircraft wing, road, and rail/port scenes with believable geometry and natural photographic texture.
 
 Avoid:
 - painterly textures
 - repeated/blobby vegetation
+- overly dense or copy-pasted tree patterns
+- synthetic foliage with identical shapes or obvious generative repetition
 - artificial “AI” surface texture
 - pixelated-looking details
 - duplicated objects
 - warped trucks, ships, planes, trains, containers, cranes, or roads
+- dark/muddy truck details or distorted vehicle geometry
+- visually redundant scenes that repeat the same forest/mountain treatment across multiple panels
 
-Preferred imagery should resemble high-quality editorial/corporate photography: realistic lighting, natural materials, believable geometry, and clean photographic detail.
+Preferred imagery should resemble high-quality editorial/corporate photography: realistic lighting, natural materials, believable geometry, sharp vehicle detail, distinct scene composition, and clean photographic detail.
 
 Suggested strip subjects:
 - truck on highway
@@ -114,9 +131,16 @@ Suggested strip subjects:
 - rail containers
 - port crane / terminal
 
+## Generation workflow rule
+
+For weekly updates, **do not regenerate the entire top strip or logo block unless necessary**. Prefer preserving the last approved visual structure and changing only the weekly variable fields. If a strip panel must be replaced, replace that panel only and compare it against the Week 37 approved baseline before finalizing.
+
 ## Final visual QA
 
 Before approval verify:
+- logo matches the approved Allog reference exactly enough to be brand-safe
+- department name reads exactly `US Domestics`
+- logo is not stretched, warped, recolored, or reinterpreted
 - week number and date range are correct
 - every diesel number matches the EIA table
 - WoW arrow direction matches the sign
@@ -126,5 +150,7 @@ Before approval verify:
 - source date is correct
 - no stale highlight from the prior week remains
 - all Portuguese text is legible and correctly spelled
-- photo strip looks realistic
+- photo strip looks realistic and editorial-grade
+- truck/ship/plane/road/rail geometry is believable and sharp
+- vegetation is natural and non-repetitive
 - layout still matches the locked official template
